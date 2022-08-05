@@ -19,5 +19,5 @@
 ## ☉ Imagens:
 > **Imagens serão atualizadas conforme eu avançar com o layout.*
 
-<img src="https://cdn.discordapp.com/attachments/1004978432205127740/1004978467923828776/unknown.png" width="600px"></img>
+<img src="https://cdn.discordapp.com/attachments/1004978432205127740/1005170995990102160/unknown.png" width="600px"></img>
 - *Primeiro sprite do Projeto.*
